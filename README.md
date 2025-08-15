@@ -1,5 +1,3 @@
-:
-
 📊 Super Store Sales Dashboard
 
 This project presents an interactive sales analytics dashboard built to analyze and visualize retail store performance. Using Power BI, the dashboard transforms raw transactional data into actionable business insights, helping decision-makers monitor KPIs, identify trends, and improve strategic planning.
@@ -36,6 +34,10 @@ Visualized regional sales hotspots for targeted marketing strategies.
 
 Tracked seasonal sales fluctuations to optimize inventory planning.
 
+https://github.com/user-attachments/assets/5ebebf2d-f47a-43da-a2f4-8387b33e928d
 
-https://github.com/user-attachments/assets/8ac32c23-5053-4e65-b600-d0750c180b53
+
+
+
+
 
